@@ -1,7 +1,8 @@
 """
 Purpose :
     This script is used to Delete the Resources that are automatically 
-    created using the script mentioned in the blog -
+    created using the script mentioned in the blog - 
+    https://scripting4ever.wordpress.com/2020/05/19/automating-s3-bucket-creation-with-access-logging-and-enabling-the-analysis-in-aws-athena/
 
 Method :
     There are 2 ways of deleting the resources
